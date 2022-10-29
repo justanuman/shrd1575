@@ -5,7 +5,7 @@ import os , os.path
 id1= ["vadim","serega"]
 massid = ["96f33a53-6e6e-4b39-8527-9134200fd35c","c418e10d-fe22-4481-8ed0-dc6383d7c553"]
 
-SUBSCRIPTION_KEY = '601843bed46445f6a879303f84e39e73'   
+SUBSCRIPTION_KEY = 'this key is invalid'   
 CF.Key.set(SUBSCRIPTION_KEY)
 BASE_URL = 'https://northeurope.api.cognitive.microsoft.com/face/v1.0'  
 CF.BaseUrl.set(BASE_URL)
